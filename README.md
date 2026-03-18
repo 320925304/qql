@@ -66,11 +66,11 @@ python evaluate.py
 
 ## 特性
 
-✅ 模块化设计：BackBone 和 Head 分离  
-✅ 训练过程可视化：loss 和 accuracy 曲线  
-✅ 进度条显示：使用 tqdm 显示训练进度  
-✅ 模型保存：自动保存最佳模型和最新模型  
-✅ 学习率调度：StepLR 自动调整学习率  
+✅ 模块化设计：BackBone 和 Head 分离
+✅ 训练过程可视化：loss 和 accuracy 曲线
+✅ 进度条显示：使用 tqdm 显示训练进度
+✅ 模型保存：自动保存最佳模型和最新模型
+✅ 学习率调度：StepLR 自动调整学习率
 
 ## 作者
 
